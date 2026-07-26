@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/*.log
+data/*.duckdb
+data/*.duckdb.wal
+data/*.duckdb.tmp
