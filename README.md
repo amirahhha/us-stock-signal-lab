@@ -131,7 +131,7 @@ python3 pipeline.py --period 5y
 On macOS, the convenience launcher can reopen the dashboard:
 
 ```bash
-./scripts/start_dashboard.sh
+zsh scripts/start_dashboard.sh
 ```
 
 ## Daily automation on macOS
